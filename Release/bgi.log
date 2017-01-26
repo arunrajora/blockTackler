@@ -1,0 +1,90 @@
+﻿  bgiout.cxx
+  dibutil.cxx
+  drawing.cxx
+drawing.cxx(819): warning C4101: 'tries' : unreferenced local variable
+drawing.cxx(859): warning C4101: 'answer' : unreferenced local variable
+drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\visual studio 2013 professional\VC\include\string.h(118) : see declaration of 'strcat'
+  file.cxx
+  misc.cxx
+  mouse.cxx
+  palette.cxx
+  main.cxx
+main.cxx(189): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+main.cxx(192): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+main.cxx(195): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+main.cxx(333): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+main.cxx(367): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+main.cxx(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cxx(397): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+Source.cpp(55): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(56): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(57): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(58): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(59): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(60): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(61): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(62): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(169): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(241): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(259): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(260): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(296): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(305): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(336): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(338): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(341): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(342): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(343): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(345): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(366): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(367): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(377): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(378): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(404): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(405): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(415): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(416): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(549): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(550): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(624): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(625): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(626): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(627): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(628): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(644): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(645): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(654): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(655): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(661): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(662): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(672): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(673): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(679): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(680): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(689): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(690): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(754): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(755): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(759): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(762): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(763): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(764): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Source.cpp(766): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  text.cxx
+text.cxx(348): warning C4018: '<' : signed/unsigned mismatch
+  winbgi.cxx
+winbgi.cxx(81): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+winbgi.cxx(134): warning C4101: 'actual_color' : unreferenced local variable
+winbgi.cxx(133): warning C4101: 'bgi_color' : unreferenced local variable
+winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\visual studio 2013 professional\VC\include\stdio.h(356) : see declaration of 'sprintf'
+  winthread.cxx
+winthread.cxx(320): warning C4101: 'i' : unreferenced local variable
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+  Generating code
+  Finished generating code
+  bgi.vcxproj -> C:\Users\arun rajora\Desktop\bgi\Release\bgi.exe
